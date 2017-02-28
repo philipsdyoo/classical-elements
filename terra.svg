@@ -1,0 +1,9 @@
+<svg id="terra" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 250">
+  <title>terra</title>
+  <g>
+    <path d="M242.5,125a117.5,117.5,0,0,0-235,0,117.5,117.5,0,0,1,235,0Z" fill="#fff"/>
+    <path d="M125,0A125,125,0,1,0,250,125,125,125,0,0,0,125,0Zm0,235A110,110,0,1,1,235,125,110,110,0,0,1,125,235Z"/>
+  </g>
+  <line x1="124.5" y1="240.5" x2="124.5" y2="4.5" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="15"/>
+  <line x1="4.5" y1="124.5" x2="243.5" y2="124.5" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="15"/>
+</svg>
